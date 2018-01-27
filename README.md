@@ -8,4 +8,6 @@ A chat room developed with Qt. Can both run in windows and linux, also support f
 ## Feature  
 - QQ like
 - point to point
-
+- file deliver  
+## Update  
+- v1.0
