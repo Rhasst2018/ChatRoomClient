@@ -10,4 +10,4 @@ A chat room developed with Qt. Can both run in windows and linux, also support f
 - point to point
 - file deliver  
 ## Update  
-- v1.0
+- v1.0 need server
